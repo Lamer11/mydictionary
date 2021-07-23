@@ -13,9 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mydiction</name>
 	<description>My app for keeping english words</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	<!-- sdsd -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
